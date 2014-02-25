@@ -1,0 +1,2107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelData>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-2" Checkpoint="1" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="0" PositionX="13.2666664" PositionZ="12.3999939" />
+      <ObjectData ObjectID="0" PositionX="22.8" PositionZ="12.0666656" />
+      <ObjectData ObjectID="0" PositionX="13" PositionZ="20.0666656" />
+      <ObjectData ObjectID="0" PositionX="25.1333332" PositionZ="18.9333344" />
+      <ObjectData ObjectID="0" PositionX="18.1333332" PositionZ="19.3999939" />
+      <ObjectData ObjectID="0" PositionX="26.4666672" PositionZ="2.399994" />
+      <ObjectData ObjectID="0" PositionX="21.333334" PositionZ="3" />
+      <ObjectData ObjectID="0" PositionX="15.6" PositionZ="3" />
+      <ObjectData ObjectID="0" PositionX="10.9333334" PositionZ="4.53334045" />
+      <ObjectData ObjectID="3" PositionX="10.4" PositionZ="6" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="30" PositionZ="0" Time="15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="10" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-5">
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="1" PositionX="38.0666656" PositionZ="14.46666" />
+      <ObjectData ObjectID="1" PositionX="47.4" PositionZ="13.8000031" />
+      <ObjectData ObjectID="1" PositionX="49.9333344" PositionZ="9.266663" />
+      <ObjectData ObjectID="1" PositionX="59.5333328" PositionZ="13.46666" />
+      <ObjectData ObjectID="1" PositionX="60.3333321" PositionZ="7.8666687" />
+      <ObjectData ObjectID="1" PositionX="59.2666664" PositionZ="16.7333374" />
+      <ObjectData ObjectID="3" PositionX="47.5" PositionZ="8.5" />
+      <ObjectData ObjectID="3" PositionX="49.5" PositionZ="14.5" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="20" Time="10" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-7.5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="7.5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="1" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="14">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="0" PositionX="41.2666664" PositionZ="34" />
+      <ObjectData ObjectID="0" PositionX="51.6666679" PositionZ="33.86667" />
+      <ObjectData ObjectID="0" PositionX="57.4666672" PositionZ="33.86667" />
+      <ObjectData ObjectID="1" PositionX="47.5333328" PositionZ="33.8000031" />
+      <ObjectData ObjectID="1" PositionX="60.3333321" PositionZ="34" />
+      <ObjectData ObjectID="1" PositionX="60.1333351" PositionZ="30" />
+      <ObjectData ObjectID="1" PositionX="53.9333344" PositionZ="29.9333344" />
+      <ObjectData ObjectID="1" PositionX="39" PositionZ="29.8666687" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="9">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-4" PositionZ="10">
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+        <SpawnObject ObjectID="6" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-3" PositionZ="-3">
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="8" PositionZ="-3">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+        <SpawnObject ObjectID="6" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-12" PositionZ="10">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="13" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="13" PositionZ="3">
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="14" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="30" PositionZ="0" Time="15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-3">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="4">
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="14">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="0" PositionX="73.73333" PositionZ="32.46666" />
+      <ObjectData ObjectID="0" PositionX="88" PositionZ="33" />
+      <ObjectData ObjectID="0" PositionX="80.9333344" PositionZ="29.8666687" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="5">
+        <SpawnObject ObjectID="7" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-10" Checkpoint="1" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-7.5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-8" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="8" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="7" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="8" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="20" PositionZ="-20" Time="15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="10">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+        <SpawnObject ObjectID="6" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="7.5" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-5">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="0" PositionX="107.866669" PositionZ="15.1333313" />
+      <ObjectData ObjectID="1" PositionX="90.26667" PositionZ="11.7333374" />
+      <ObjectData ObjectID="1" PositionX="90.46667" PositionZ="9.199997" />
+      <ObjectData ObjectID="1" PositionX="94" PositionZ="11.8666687" />
+      <ObjectData ObjectID="1" PositionX="94.4" PositionZ="9.46666" />
+      <ObjectData ObjectID="1" PositionX="103.26667" PositionZ="11.53334" />
+      <ObjectData ObjectID="1" PositionX="103.533333" PositionZ="9.199997" />
+      <ObjectData ObjectID="1" PositionX="106.26667" PositionZ="11.53334" />
+      <ObjectData ObjectID="1" PositionX="106.4" PositionZ="9.133331" />
+      <ObjectData ObjectID="0" PositionX="86.26667" PositionZ="20.53334" />
+      <ObjectData ObjectID="0" PositionX="93.2" PositionZ="18.8000031" />
+      <ObjectData ObjectID="0" PositionX="100.466667" PositionZ="17.6000061" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="7">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="7">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="0">
+        <SpawnObject ObjectID="7" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="7" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="10">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="4">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-5">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-4" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-5">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="8" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="10" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="3.5" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-9" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-6" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="40" PositionZ="0" Time="20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="10">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-5">
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="13" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="5" SpawnTime="17" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="19" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="13" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="5" SpawnTime="17" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="19" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="1" PositionX="135.066666" PositionZ="6.199997" />
+      <ObjectData ObjectID="1" PositionX="142.066666" PositionZ="6.199997" />
+      <ObjectData ObjectID="1" PositionX="136.133331" PositionZ="15.46666" />
+      <ObjectData ObjectID="1" PositionX="141.133331" PositionZ="15.3333282" />
+      <ObjectData ObjectID="0" PositionX="129.733337" PositionZ="6" />
+      <ObjectData ObjectID="0" PositionX="130.333328" PositionZ="15.8666687" />
+      <ObjectData ObjectID="0" PositionX="146.733337" PositionZ="6.66667175" />
+      <ObjectData ObjectID="0" PositionX="147.866669" PositionZ="17.8000031" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-30" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="26" />
+        <SpawnObject ObjectID="5" SpawnTime="28" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-7.5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="5" SpawnTime="26" />
+        <SpawnObject ObjectID="7" SpawnTime="30" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="7.5" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="6" SpawnTime="22" />
+        <SpawnObject ObjectID="5" SpawnTime="26" />
+        <SpawnObject ObjectID="5" SpawnTime="28" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="6.25">
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="7" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="1">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="15" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="6" SpawnTime="24" />
+        <SpawnObject ObjectID="5" SpawnTime="26" />
+        <SpawnObject ObjectID="5" SpawnTime="28" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="7.5" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-7.5" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-15" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="26" />
+        <SpawnObject ObjectID="5" SpawnTime="28" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-8">
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="7" SpawnTime="20" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="3">
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-2" PositionZ="43" Time="10" Checkpoint="0" />
+    <WorldObjects>
+      <ObjectData ObjectID="2" PositionX="132.53334" PositionZ="90.73334" />
+      <ObjectData ObjectID="2" PositionX="146.53334" PositionZ="91.13333" />
+      <ObjectData ObjectID="2" PositionX="132.133331" PositionZ="81.66667" />
+      <ObjectData ObjectID="2" PositionX="146.866669" PositionZ="81.9333344" />
+      <ObjectData ObjectID="1" PositionX="135.2" PositionZ="80.33333" />
+      <ObjectData ObjectID="1" PositionX="142.266663" PositionZ="79.9333344" />
+      <ObjectData ObjectID="1" PositionX="148.6" PositionZ="86" />
+      <ObjectData ObjectID="1" PositionX="136.333328" PositionZ="89.2" />
+      <ObjectData ObjectID="1" PositionX="142.733337" PositionZ="89.33333" />
+      <ObjectData ObjectID="1" PositionX="135.933334" PositionZ="84.73334" />
+      <ObjectData ObjectID="1" PositionX="129.4" PositionZ="84.2" />
+      <ObjectData ObjectID="2" PositionX="139.733337" PositionZ="86.6000061" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-10" Checkpoint="1" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="9" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="2" PositionZ="33" Time="10" Checkpoint="0" />
+    <WorldObjects>
+      <ObjectData ObjectID="1" PositionX="129.933334" PositionZ="108.46666" />
+      <ObjectData ObjectID="1" PositionX="130.266663" PositionZ="116" />
+      <ObjectData ObjectID="1" PositionX="149.866669" PositionZ="108.266663" />
+      <ObjectData ObjectID="1" PositionX="147.333328" PositionZ="109.933334" />
+      <ObjectData ObjectID="1" PositionX="147.6" PositionZ="114.733337" />
+      <ObjectData ObjectID="2" PositionX="136.066666" PositionZ="111.933334" />
+      <ObjectData ObjectID="2" PositionX="142.066666" PositionZ="112.2" />
+      <ObjectData ObjectID="2" PositionX="139.46666" PositionZ="105.733337" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="1" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="22" Time="15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-2">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-2">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="6">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="6">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-10" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="0">
+        <SpawnObject ObjectID="8" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="5" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-5" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-10" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-5">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="5">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="10">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="10">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="5">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="0">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-5">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="44" PositionZ="0" Time="25" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="11" />
+        <SpawnObject ObjectID="8" SpawnTime="20" />
+        <SpawnObject ObjectID="6" SpawnTime="22" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="8" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="0" />
+        <SpawnObject ObjectID="8" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="13">
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="8" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="5">
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="8" SpawnTime="20" />
+        <SpawnObject ObjectID="6" SpawnTime="20" />
+        <SpawnObject ObjectID="6" SpawnTime="22" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-3">
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="8" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="0" />
+        <SpawnObject ObjectID="8" SpawnTime="3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+        <SpawnObject ObjectID="8" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="13" />
+        <SpawnObject ObjectID="6" SpawnTime="17" />
+        <SpawnObject ObjectID="8" SpawnTime="20" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="5">
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+        <SpawnObject ObjectID="6" SpawnTime="22" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="22" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="2" PositionX="179.733337" PositionZ="104.133331" />
+      <ObjectData ObjectID="2" PositionX="193.866669" PositionZ="109.2" />
+      <ObjectData ObjectID="1" PositionX="173.333328" PositionZ="108.53334" />
+      <ObjectData ObjectID="1" PositionX="175.4" PositionZ="104.866669" />
+      <ObjectData ObjectID="1" PositionX="180.266663" PositionZ="108.399994" />
+      <ObjectData ObjectID="1" PositionX="188.133331" PositionZ="110.53334" />
+      <ObjectData ObjectID="1" PositionX="191.066666" PositionZ="105.666672" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-30" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="11" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+        <SpawnObject ObjectID="5" SpawnTime="17" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="13">
+        <SpawnObject ObjectID="6" SpawnTime="20" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="5">
+        <SpawnObject ObjectID="11" SpawnTime="20" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-3">
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="20" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="13">
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+        <SpawnObject ObjectID="5" SpawnTime="17" />
+        <SpawnObject ObjectID="5" SpawnTime="19" />
+        <SpawnObject ObjectID="5" SpawnTime="21" />
+        <SpawnObject ObjectID="5" SpawnTime="23" />
+        <SpawnObject ObjectID="5" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="11" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="1" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="22" Time="12.5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="5">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="5">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="5" />
+        <SpawnObject ObjectID="8" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="3" />
+        <SpawnObject ObjectID="8" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="2" PositionX="178.2" PositionZ="136.8" />
+      <ObjectData ObjectID="2" PositionX="189.733337" PositionZ="136.866669" />
+      <ObjectData ObjectID="2" PositionX="177.266663" PositionZ="128.533325" />
+      <ObjectData ObjectID="2" PositionX="191.53334" PositionZ="127.666664" />
+      <ObjectData ObjectID="1" PositionX="175.333328" PositionZ="134.2" />
+      <ObjectData ObjectID="1" PositionX="185.733337" PositionZ="138.266663" />
+      <ObjectData ObjectID="1" PositionX="188.266663" PositionZ="132.933334" />
+      <ObjectData ObjectID="1" PositionX="187.933334" PositionZ="126.8" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-10" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-7" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="7" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="40" PositionZ="0" Time="17.5" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="14" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+        <SpawnObject ObjectID="6" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="17" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-2">
+        <SpawnObject ObjectID="8" SpawnTime="0" />
+        <SpawnObject ObjectID="8" SpawnTime="6" />
+        <SpawnObject ObjectID="8" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="14">
+        <SpawnObject ObjectID="8" SpawnTime="3" />
+        <SpawnObject ObjectID="8" SpawnTime="9" />
+        <SpawnObject ObjectID="8" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects>
+      <ObjectData ObjectID="1" PositionX="225.4" PositionZ="137.6" />
+      <ObjectData ObjectID="1" PositionX="217.46666" PositionZ="136.2" />
+      <ObjectData ObjectID="1" PositionX="230.8" PositionZ="136" />
+      <ObjectData ObjectID="1" PositionX="227.733337" PositionZ="132.866669" />
+      <ObjectData ObjectID="1" PositionX="212.6" PositionZ="134" />
+      <ObjectData ObjectID="2" PositionX="221.133331" PositionZ="135.666656" />
+      <ObjectData ObjectID="2" PositionX="226.8" PositionZ="128.4" />
+      <ObjectData ObjectID="2" PositionX="217.133331" PositionZ="128.333344" />
+    </WorldObjects>
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-15" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+        <SpawnObject ObjectID="8" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="11" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="14">
+        <SpawnObject ObjectID="5" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="6">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="13" />
+        <SpawnObject ObjectID="8" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-2">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="6" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="6" SpawnTime="14" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="11" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="6" SpawnTime="13" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-2">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="6">
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+        <SpawnObject ObjectID="8" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="14">
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-30" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="19" />
+        <SpawnObject ObjectID="11" SpawnTime="21" />
+        <SpawnObject ObjectID="6" SpawnTime="23" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+        <SpawnObject ObjectID="5" SpawnTime="19" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="8" SpawnTime="12" />
+        <SpawnObject ObjectID="6" SpawnTime="27" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="14">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="6">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="20" />
+        <SpawnObject ObjectID="5" SpawnTime="30" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-2">
+        <SpawnObject ObjectID="5" SpawnTime="3" />
+        <SpawnObject ObjectID="5" SpawnTime="20" />
+        <SpawnObject ObjectID="5" SpawnTime="30" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="8" />
+        <SpawnObject ObjectID="11" SpawnTime="29" />
+        <SpawnObject ObjectID="5" SpawnTime="30" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="-10">
+        <SpawnObject ObjectID="8" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="21" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="1" />
+        <SpawnObject ObjectID="11" SpawnTime="29" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="11" SpawnTime="9" />
+        <SpawnObject ObjectID="8" SpawnTime="10" />
+        <SpawnObject ObjectID="6" SpawnTime="26" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-2">
+        <SpawnObject ObjectID="5" SpawnTime="2" />
+        <SpawnObject ObjectID="6" SpawnTime="8" />
+        <SpawnObject ObjectID="5" SpawnTime="16" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="14">
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="4" />
+        <SpawnObject ObjectID="5" SpawnTime="11" />
+        <SpawnObject ObjectID="5" SpawnTime="19" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="40" Time="15" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-2" Checkpoint="1" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-39" PositionZ="0" Time="5" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="2">
+        <SpawnObject ObjectID="17" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="12">
+        <SpawnObject ObjectID="17" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="17">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="7">
+        <SpawnObject ObjectID="17" SpawnTime="2" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="7">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-3">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="2" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="2" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-22" PositionZ="-1" Time="5" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-20" PositionZ="-3" Time="20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-14" PositionZ="8">
+        <SpawnObject ObjectID="13" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-14" PositionZ="-1">
+        <SpawnObject ObjectID="13" SpawnTime="0.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="8">
+        <SpawnObject ObjectID="13" SpawnTime="0.3" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-4" PositionZ="4">
+        <SpawnObject ObjectID="13" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-1">
+        <SpawnObject ObjectID="13" SpawnTime="0.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="4">
+        <SpawnObject ObjectID="13" SpawnTime="0.2" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="1" PositionZ="8">
+        <SpawnObject ObjectID="13" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-6" PositionZ="-1">
+        <SpawnObject ObjectID="13" SpawnTime="0.1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-6" PositionZ="8">
+        <SpawnObject ObjectID="13" SpawnTime="0.1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-2" PositionZ="-1">
+        <SpawnObject ObjectID="13" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-17" PositionZ="4">
+        <SpawnObject ObjectID="13" SpawnTime="0.35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-8" PositionZ="-19" Time="25" Checkpoint="1" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="15">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="1">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="1">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="16">
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="5" SpawnTime="1" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-2" PositionZ="-3">
+        <SpawnObject ObjectID="13" SpawnTime="20" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-2" PositionZ="7">
+        <SpawnObject ObjectID="13" SpawnTime="20" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="6" PositionZ="2">
+        <SpawnObject ObjectID="13" SpawnTime="20.1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-9" PositionZ="2">
+        <SpawnObject ObjectID="13" SpawnTime="20.1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-20" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="5" PositionZ="9">
+        <SpawnObject ObjectID="17" SpawnTime="1" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="9">
+        <SpawnObject ObjectID="17" SpawnTime="1.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="1">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="5" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+        <SpawnObject ObjectID="6" SpawnTime="10" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="3">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="1">
+        <SpawnObject ObjectID="17" SpawnTime="1.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="5" PositionZ="1">
+        <SpawnObject ObjectID="17" SpawnTime="1.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-25" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="20">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="7" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="2">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-10">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="7" SpawnTime="21" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="2">
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+        <SpawnObject ObjectID="6" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="0" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="5" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="7" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="5" SpawnTime="12" />
+        <SpawnObject ObjectID="7" SpawnTime="21" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="5">
+        <SpawnObject ObjectID="17" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="3" PositionZ="5">
+        <SpawnObject ObjectID="17" SpawnTime="0.35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="2" PositionZ="20">
+        <SpawnObject ObjectID="7" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-2" PositionZ="-10">
+        <SpawnObject ObjectID="7" SpawnTime="10" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+        <SpawnObject ObjectID="5" SpawnTime="18" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-24" PositionZ="0" Time="5" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-35" Checkpoint="0" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="8">
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="7" SpawnTime="11" />
+        <SpawnObject ObjectID="7" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="17">
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="7" SpawnTime="35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="4" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="5.25" />
+        <SpawnObject ObjectID="6" SpawnTime="5.25" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="25" />
+        <SpawnObject ObjectID="5" SpawnTime="25" />
+        <SpawnObject ObjectID="5" SpawnTime="25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-9" PositionZ="20">
+        <SpawnObject ObjectID="6" SpawnTime="3.25" />
+        <SpawnObject ObjectID="6" SpawnTime="3.25" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="-7" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-9" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="5.25" />
+        <SpawnObject ObjectID="6" SpawnTime="5.25" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="20" PositionZ="-7">
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="1.5" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="7" SpawnTime="35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="4" PositionZ="-10">
+        <SpawnObject ObjectID="6" SpawnTime="3.25" />
+        <SpawnObject ObjectID="6" SpawnTime="3.25" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+        <SpawnObject ObjectID="5" SpawnTime="9" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="8" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-20" PositionZ="17" />
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="10">
+        <SpawnObject ObjectID="17" SpawnTime="1.35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="10">
+        <SpawnObject ObjectID="17" SpawnTime="5.35" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="5">
+        <SpawnObject ObjectID="17" SpawnTime="5.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-10" PositionZ="0">
+        <SpawnObject ObjectID="17" SpawnTime="5.15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="0">
+        <SpawnObject ObjectID="17" SpawnTime="1.05" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="-5" PositionZ="5">
+        <SpawnObject ObjectID="17" SpawnTime="1.15" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="4" PositionZ="0">
+        <SpawnObject ObjectID="13" SpawnTime="30.25" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <SpawnPoint>
+      <SpawnInfo PositionX="4" PositionZ="8">
+        <SpawnObject ObjectID="13" SpawnTime="30" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="-31" PositionZ="0" Time="5" Checkpoint="0" />
+    <WorldObjects />
+  </WayPoint>
+  <WayPoint>
+    <WayPointInfo PositionX="0" PositionZ="0" Time="-1" Checkpoint="1" />
+    <SpawnPoint>
+      <SpawnInfo PositionX="0" PositionZ="11">
+        <SpawnObject ObjectID="10" SpawnTime="0" />
+      </SpawnInfo>
+    </SpawnPoint>
+    <WorldObjects />
+  </WayPoint>
+</LevelData>

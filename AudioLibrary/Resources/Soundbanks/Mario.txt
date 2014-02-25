@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	241793401	Play_mario_battlestart			\Default Work Unit\Play_mario_battlestart	
+	510078160	Play_1up_collected			\Default Work Unit\Play_1up_collected	
+	1009565364	Play_Intro_Music			\Default Work Unit\Play_Intro_Music	
+	2028878857	Play_mario_yoshi			\Default Work Unit\Play_mario_yoshi	
+	2044119629	Play_mario_jump			\Default Work Unit\Play_mario_jump	
+	3153484237	Play_mario_correct			\Default Work Unit\Play_mario_correct	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	78065857	smrpg_intro	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_intro_8698b407.wem		\Interactive Music Hierarchy\Default Work Unit\Intro Music\intro_smrpg\smrpg_intro		5912227
+	409700149	1up_collected	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_1up_8698b406.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mario\1up_collected		12177
+	594159915	mario_battlestart	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_battlestart_8698b406.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mario\mario_battlestart		10927
+	707799358	mario_jump	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_jump_8698b406.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mario\mario_jump		8545
+	1016209983	mario_yoshi	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_yoshi_8698b406.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mario\mario_yoshi		11419
+	1057188914	mario_correct	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\smrpg_correct_8698b406.wem		\Actor-Mixer Hierarchy\Default Work Unit\Mario\mario_correct		13871
+

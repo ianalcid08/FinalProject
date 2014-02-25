@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	307248102	Stop_Level_Water			\Default Work Unit\Stop_Level_Water	
+	395513920	Play_Shield_Fire			\Default Work Unit\Play_Shield_Fire	
+	1845058586	Play_Level_Finish			\Default Work Unit\Play_Level_Finish	
+	2559640918	Play_Shield_Bubble			\Default Work Unit\Play_Shield_Bubble	
+	2860544994	Play_Shield_Lightning			\Default Work Unit\Play_Shield_Lightning	
+	3198735684	Play_Level_Water			\Default Work Unit\Play_Level_Water	
+	3319961908	Play_Ring_Collected			\Default Work Unit\Play_Ring_Collected	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	349612303	shield_bubble	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\shield_bubble_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\shield_bubble		133494
+	639010461	shield_lightning	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\shield_lightening_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\shield_lightning		132150
+	668142238	ring_collected	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\ring_collected_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\ring_collected		37816
+	718204766	level_finish	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\level_finish_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\level_finish		415576
+	719556788	shield_fire	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\shield_fire_ab9e423f.wem		\Actor-Mixer Hierarchy\Default Work Unit\shield_fire		161290
+	817096280	Hydrocity_Loop	Z:\GP Game Docs\GP Games Documents\Tutorials\WwiseTutorial_v2011.2.2\Wwise Authoring Tool Project\.cache\Windows\sfx\hydrocity_loop_ab9e423e.wem		\Interactive Music Hierarchy\Default Work Unit\Level Music\level_water\Hydrocity_Loop		9251436
+

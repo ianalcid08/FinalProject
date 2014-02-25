@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Error-Game", "Error-Game\Error-Game.vcxproj", "{90E3B142-D387-4477-810B-D833F4769129}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioLibrary", "AudioLibrary\AudioLibrary.vcxproj", "{26BD2B2C-D72C-4DF6-8064-678193CEE8DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Err0r", "Err0r\Err0r.vdproj", "{DFD6DFDA-64A8-4B93-A58F-36636B1BBDF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90E3B142-D387-4477-810B-D833F4769129}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90E3B142-D387-4477-810B-D833F4769129}.Debug|Win32.Build.0 = Debug|Win32
+		{90E3B142-D387-4477-810B-D833F4769129}.Release|Win32.ActiveCfg = Release|Win32
+		{90E3B142-D387-4477-810B-D833F4769129}.Release|Win32.Build.0 = Release|Win32
+		{26BD2B2C-D72C-4DF6-8064-678193CEE8DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26BD2B2C-D72C-4DF6-8064-678193CEE8DD}.Debug|Win32.Build.0 = Debug|Win32
+		{26BD2B2C-D72C-4DF6-8064-678193CEE8DD}.Release|Win32.ActiveCfg = Release|Win32
+		{26BD2B2C-D72C-4DF6-8064-678193CEE8DD}.Release|Win32.Build.0 = Release|Win32
+		{DFD6DFDA-64A8-4B93-A58F-36636B1BBDF8}.Debug|Win32.ActiveCfg = Debug
+		{DFD6DFDA-64A8-4B93-A58F-36636B1BBDF8}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
